@@ -110,7 +110,7 @@ if "quote" not in st.session_state:
 if st.session_state.show_splash:
 
     st.image(
-        "assets/dsce_logo.png",
+        "dsce_logo.png",
         width=220
     )
 
